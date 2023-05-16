@@ -1,6 +1,6 @@
 ### Story
 
-Skorm was born on an island that sat in the shadow of a massive volcano. Life on the island was harsh, but Skorm was raised to be tough and hardworking from a young age. He spent his childhood helping his family tend to their farm and fishing boats, and honing his skills as a fighter in his free time.
+Skorm was born on the Braveship Island, that sat in the shadow of a massive volcano. Life on the island was harsh, but Skorm was raised to be tough and hardworking from a young age. He spent his childhood helping his family tend to their farm and fishing boats, and honing his skills as a fighter in his free time.
 
 As he grew older, Skorm felt the pull of the open sea. He was fascinated by the ships that passed by the island, and dreamed of one day exploring the world beyond his small community. So when he came of age, he left his family and his island behind and set out to become a sailor.
 
