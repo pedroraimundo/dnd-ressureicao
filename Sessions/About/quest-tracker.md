@@ -1,0 +1,10 @@
+# QUESTS
+----
+
+## Open:
+----
+### Investigacoes:
+ - ?
+
+### Closed:
+----
