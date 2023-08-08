@@ -21,9 +21,15 @@
                 - Seren nos da o contato de Kellyn e vamos ate os vinhedos para conversar com ela
                 - Conhecemos o Odo na fazenda dos vinhedos, e continuamos nossa investigacao
 
-            - Quem contratou Thuriel e Tristan? [QUEST ATUAL]
+            - Quem contratou Thuriel e Tristan? [COMPLETE]
                 - Conseguimos a informacao que Odo contratou os meninos, direto do Devon no Fighting Bear
                 - Vamos ate o armazem da Luriel pra tentar descobrir mais
+            
+            - Trabalho nas Minas [QUEST ATUAL]
+                - Vamos ate as minas com Hoh'tur descobrir mais informacoes sobre o grupo criminoso de piratas e o sumico de Tristan
+
+- O Trauma de Skorm
+    - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
 
 ### Closed:
 ----
