@@ -24,6 +24,7 @@ Notes written in PT-BR ¯_(ツ)_/¯
  - Discord: https://discord.gg/DdbDvU96
  - Lista de livros disponíveis: https://www.dndbeyond.com/campaigns/4086303/content-management
  - Mapping Tool: https://www.owlbear.rodeo/
+    - Mapping Room: https://www.owlbear.rodeo/room/ZtHYufCrkjcF/TheVastRung
 
 ### Classes:
  - Rogue: https://www.dndbeyond.com/classes/rogue
