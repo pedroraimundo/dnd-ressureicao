@@ -9,6 +9,8 @@ Notes written in PT-BR ¯_(ツ)_/¯
 
 ## INFO:
 ----
+### START DATE: 23/05/2023
+
 ### DM:
  - Gogola
 
