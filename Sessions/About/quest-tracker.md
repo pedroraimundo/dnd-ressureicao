@@ -29,6 +29,8 @@
                 - Vamos ate as minas com Hoh'tur descobrir mais informacoes sobre o grupo criminoso de piratas e o sumico de Tristan
                     - Descobrimos que existem registros dos trabalhadores das minas
                     - Entramos nas minas para começar a investigação
+                    - Vivur encontra os arquivos de Tristan e descobre que ele foi dado como desaparecido no terceiro nível da mina [*]
+                        
 
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
