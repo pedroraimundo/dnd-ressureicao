@@ -10,6 +10,9 @@
  - O Bebado Mentiroso
     - Qual sera a verdade sobre a historia do Jesiah?
 
+- A verdade sobre a Ordem dos Paladinos 
+    - Precisamos entender a conexão da Ordem dos Paladinos com os equipamentos encontrados na mina.
+
 - O Conselho e as Faccoes [QUEST ATUAL]
     - O que eh o conselho? Quais sao as motivacoes? Porque eles sao agressivos?
     - O que motiva as faccoes? Quais sao as faccoes existentes?
@@ -30,7 +33,9 @@
                     - Descobrimos que existem registros dos trabalhadores das minas
                     - Entramos nas minas para começar a investigação
                     - Vivur encontra os arquivos de Tristan e descobre que ele foi dado como desaparecido no terceiro nível da mina
-                    - Seguimos os passos de Hoh'tur, um misterioso senhor e seus campangas para as profundezas das minas em uma investigação [*]
+                    - Seguimos os passos de Hoh'tur, um misterioso senhor e seus campangas para as profundezas das minas em uma investigação
+                    - Entramos em batalha com Hoh'tur, que foge por um portal
+                    - Resgatamos Tristan e Marian, precisamos voltar a cidade em segurança [*]
                         
 
 - O Trauma de Skorm
