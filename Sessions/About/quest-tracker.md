@@ -12,13 +12,15 @@
     - Precisamos entender a conexão da Ordem dos Paladinos com os equipamentos encontrados na mina.
     - Qual sera a verdade sobre a historia do Jesiah?
     - Jesiah nos conta porque foi expulso da Ordem, e o dia que perdeu seus melhores amigos na mina - Yunan Newman e Breslan (tutor de Jesiah)
-    - Jesiah quer vingança pela injustiça que sofreu e amigos que perdeu [*]
+    - Jesiah quer vingança pela injustiça que sofreu e amigos que perdeu 
+    - Rivenholm e Seren vão nos ajudar baseados nas evidências e informações que providenciamos [*]
 
 
 - O Conselho e as Faccoes [QUEST ATUAL]
     - O que eh o conselho? Quais sao as motivacoes? Porque eles sao agressivos?
     - O que motiva as faccoes? Quais sao as faccoes existentes?
-    - Precisamos nos conectar com Aelfrich da casa das Leis para conseguir mais informações e aliados [*]
+    - Precisamos nos conectar com Aelfrich da casa das Leis para conseguir mais informações e aliados 
+    - Precisamos da ajuda de Kellyn para ter mais influência nos assuntos da cidade [*]
 
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.

@@ -14,12 +14,12 @@ Notes written in PT-BR ¯_(ツ)_/¯
 ### DM:
  - Gogola
 
-### Players:
- - Vini (Vivur Borgen)
- - Elias (Hamelin)
- - Renato (Healary Scuff)
- - Pedrin (Skorm)
- - Diego (Adriel)
+### Players/Characters:
+ - Vini (Vivur Borgen) - Alive
+ - Elias (Hamelin) - Alive
+ - Renato (Healary Scuff) - Alive
+ - Pedrin (Skorm) - Alive
+ - Diego (Adriel) - Death on Jan 2024
 
 ### Links:
  - Campanha: https://www.dndbeyond.com/campaigns/4086303
@@ -47,4 +47,4 @@ Notes written in PT-BR ¯_(ツ)_/¯
  - Hamelin: https://www.dndbeyond.com/characters/85890931
  - Healary Scuff: https://www.dndbeyond.com/characters/81978562
  - Skorm: https://www.dndbeyond.com/characters/100180330
- - Adriel: https://www.dndbeyond.com/characters/100949854
+ - Adriel (RIP): https://www.dndbeyond.com/characters/100949854
