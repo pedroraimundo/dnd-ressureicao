@@ -15,12 +15,15 @@
     - Jesiah quer vingança pela injustiça que sofreu e amigos que perdeu 
     - Rivenholm e Seren vão nos ajudar baseados nas evidências e informações que providenciamos [*]
 
-
 - O Conselho e as Faccoes [QUEST ATUAL]
     - O que eh o conselho? Quais sao as motivacoes? Porque eles sao agressivos?
     - O que motiva as faccoes? Quais sao as faccoes existentes?
     - Precisamos nos conectar com Aelfrich da casa das Leis para conseguir mais informações e aliados 
-    - Precisamos da ajuda de Kellyn para ter mais influência nos assuntos da cidade [*]
+    - Precisamos da ajuda de Kellyn para ter mais influência nos assuntos da cidade [*] ("O Cetro de Kellyn")
+
+- O Cetro de Kellyn [QUEST ATUAL]
+    - Kellyn trocará a ajuda e influência dela pelo Cetro de sua família que foi roubado semanas atrás
+    - Recolhemos informações e vamos em busca do objeto  [*]
 
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
