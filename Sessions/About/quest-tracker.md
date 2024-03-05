@@ -23,7 +23,8 @@
 
 - O Cetro de Kellyn [QUEST ATUAL]
     - Kellyn trocará a ajuda e influência dela pelo Cetro de sua família que foi roubado semanas atrás
-    - Recolhemos informações e vamos em busca do objeto  [*]
+    - Recolhemos informações e vamos em busca do objeto
+    - Infiltraremos na festa da Lady Zuzzana para obter mais informações sobre o Cetro [*]
 
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
