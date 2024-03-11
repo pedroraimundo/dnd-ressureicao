@@ -19,10 +19,10 @@
     - O que eh o conselho? Quais sao as motivacoes? Porque eles sao agressivos?
     - O que motiva as faccoes? Quais sao as faccoes existentes?
     - Precisamos nos conectar com Aelfrich da casa das Leis para conseguir mais informações e aliados 
-    - Precisamos da ajuda de Kellyn para ter mais influência nos assuntos da cidade [*] ("O Cetro de Kellyn")
+    - Precisamos da ajuda de Kallyn para ter mais influência nos assuntos da cidade [*] ("O Cetro de Kallyn")
 
-- O Cetro de Kellyn [QUEST ATUAL]
-    - Kellyn trocará a ajuda e influência dela pelo Cetro de sua família que foi roubado semanas atrás
+- O Cetro de Kallyn [QUEST ATUAL]
+    - Kallyn trocará a ajuda e influência dela pelo Cetro de sua família que foi roubado semanas atrás
     - Recolhemos informações e vamos em busca do objeto
     - Infiltraremos na festa da Lady Zuzzana para obter mais informações sobre o Cetro [*]
 
@@ -35,8 +35,8 @@
 - Thurian e seu irmao [COMPLETE]
     - Temos que ajudar Thurian a encontrar o seu irmao, Tristan
 
-        - Em busca de Kellyn [COMPLETE]
-            - Seren nos da o contato de Kellyn e vamos ate os vinhedos para conversar com ela
+        - Em busca de Kallyn [COMPLETE]
+            - Seren nos da o contato de Kallyn e vamos ate os vinhedos para conversar com ela
             - Conhecemos o Odo na fazenda dos vinhedos, e continuamos nossa investigacao
 
         - Quem contratou Thuriel e Tristan? [COMPLETE]

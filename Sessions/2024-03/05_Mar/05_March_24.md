@@ -14,20 +14,20 @@
     - Ao amanhecer, os portoes sao abertos
       - Enquanto conversamos com os guardas, Odo nos vê, e nos convida para tomar um café da manhã
       - Tomamos café, encontramos a Norma e a Jacklyn. Conversamos sobre a erva cultivada apenas na Vinicola, que todos tomam para ter mais energia
-        - A erva tem um passado interessante, o pai de Kellyn trouxe por conta das propriedades, e aquela erva é plantada somente ali. Ilex Paraguariensis
-    - Após o café, seguimos até os aposentos on a Kellyn trabalha.
-      - A Kellyn nos fez muitas perguntas sobre o ocorrido nas minas
+        - A erva tem um passado interessante, o pai de Kallyn trouxe por conta das propriedades, e aquela erva é plantada somente ali. Ilex Paraguariensis
+    - Após o café, seguimos até os aposentos on a Kallyn trabalha.
+      - A Kallyn nos fez muitas perguntas sobre o ocorrido nas minas
         - Entregamos todos os detalhes a ela, inclusive sobre as pessoas com quem conversamos sobre o incidente
         - Pedimos a ajuda dela com influência e informaçãoes
         - Ela nos pede em troca que busquemos um artefato da família dela, um Cetro que está na família Durian a gerações e foi recentemente roubado
-        - O Cetro tem muito valor emocional para a Kellyn e também pode estar interligado com a civilização perdida que há muitos tempo viveu em Aleron - assunto que interessa muito a Kellyn também
-      - A Kellyn suspeita que o roubo tenha a ver com a família Silvertongue - família dona de uma vinícola vizinha
+        - O Cetro tem muito valor emocional para a Kallyn e também pode estar interligado com a civilização perdida que há muitos tempo viveu em Aleron - assunto que interessa muito a Kallyn também
+      - A Kallyn suspeita que o roubo tenha a ver com a família Silvertongue - família dona de uma vinícola vizinha
           - As famílias são rivais de longa data no mundo da política e dos negócios
-          - Os Silvertongues também tem finanças extremamente suspeitas - Kellyn nos pede para recuperar o livro-finança dos Silvertongues para que possamos descobrir mais
-        - Kellyn nos da a informação de que no fim do próximo dia, Lady Zuzanna (chefe da casa das Finanças e da Guilda dos Mercadores) dará um baile a alta sociedade, e os Silvertongues estarão lá
-          - Decidimos nos infiltrar no baile, e Kellyn nos ajudará com isso, providenciando os convites e as roupas apropriadas, entregues pelo alfaiate oficial dos Durian.
+          - Os Silvertongues também tem finanças extremamente suspeitas - Kallyn nos pede para recuperar o livro-finança dos Silvertongues para que possamos descobrir mais
+        - Kallyn nos da a informação de que no fim do próximo dia, Lady Zuzanna (chefe da casa das Finanças e da Guilda dos Mercadores) dará um baile a alta sociedade, e os Silvertongues estarão lá
+          - Decidimos nos infiltrar no baile, e Kallyn nos ajudará com isso, providenciando os convites e as roupas apropriadas, entregues pelo alfaiate oficial dos Durian.
 
-      - Finalmente, Kellyn deposita a confiança dela em nós, nos paga uma parte adiantada pelos nossos serviços e oficialmente se torna nossa patrona :)  
+      - Finalmente, Kallyn deposita a confiança dela em nós, nos paga uma parte adiantada pelos nossos serviços e oficialmente se torna nossa patrona :)  
         - Voltamos com uma carroça de entregas imediatamente a cidade.
 
   
@@ -52,7 +52,7 @@
     - Taeral tenta educadamente nos tenta nos encaminhar a porta
     - Hamelin se aproveita da situação e abraça Taeral na oportunidade
     - Vivur intercede pra tentar arrunar a situação com Taeral, e diz que fomos recomendados
-    - Healary se apresenta, e diz que são recomendados de Kellyn
+    - Healary se apresenta, e diz que são recomendados de Kallyn
     - Taeral é convencido e pede desculpas pela confusão, mas ele ainda está desconfortável
     - Ele começa a preparar as medidas para as roupas de acordo com o evento
 
@@ -65,7 +65,7 @@
   - Healary vai conversar com Jenny, pra tentar tirar mais algumas informações
     - Ela trabalha ali faz 20 anos. Taeral, cerca de 30.
     - Healary conversa um pouco com ela sobre sua família antes de sair. A intenção era conseguir informações e ter uma conexão fora dali.
-    - As roupas foram pagas para senhora Kellyn (105 Platinas) previamente :)
+    - As roupas foram pagas para senhora Kallyn (105 Platinas) previamente :)
 
 
 #### CENA 2 - De volta a cidade
@@ -120,26 +120,26 @@
     
     - Chegando na mesa, Hamelin conta sobre seu combinado com o Thurian, e porque o fez
       - Discutimos sobre o plano atual de vigiar os Silvertong, e como aproximaremos na festa
-      - Enquanto discustimos possíveis estratégias, Odo vem nos buscar no Ragged Lady para que possamos ir até Kellyn antes da festa pra se preparar e conversar com ela antes do evento
+      - Enquanto discustimos possíveis estratégias, Odo vem nos buscar no Ragged Lady para que possamos ir até Kallyn antes da festa pra se preparar e conversar com ela antes do evento
 
 
-#### CENA 4 - Apartamento/Escritório da Kellyn na área nobre da cidade
+#### CENA 4 - Apartamento/Escritório da Kallyn na área nobre da cidade
 
-  - Vamos junto com Odo até os escritórios da Kellyn
+  - Vamos junto com Odo até os escritórios da Kallyn
     - Deixamos todos os equipamentos pesados e armaduras nos nossos quartos do Ragged Lady de forma segura
   
-  - Kellyn nos pergunta sobre a visita ao alfaiate
+  - Kallyn nos pergunta sobre a visita ao alfaiate
     - Vivur e Hamelin estão muito felizes com a qualidade das roupas
-    - Skorm comenta que vimos Dhrax saindo de lá. Kellyn reinforça que não conseguiremos extrair informações dos funcionários
+    - Skorm comenta que vimos Dhrax saindo de lá. Kallyn reinforça que não conseguiremos extrair informações dos funcionários
   
-  - Conversamos sobre a estratégia da festa com Kellyn
+  - Conversamos sobre a estratégia da festa com Kallyn
     - Discrição é a LEI!
     - A festa estará cheia das pessoas mais ricas e poderosas de Aleron, e precisamos manter um perfil baixo.
     - Precisaremos conversar com todas as pessoas para garantir o máximo de informações possíveis sobre o Cetro e sobre os Silvertongs
     - É possível que o Cetro seja entregue DURANTE a festa pelos Silvertongs - não podemos descartar essa possibilidade. Isso pode ser feito usando a festa como "cortina de fumaça"
-    - Kellyn deixa claro que a presença nossa na festa já é uma evidencia que somos parte da sociedade
+    - Kallyn deixa claro que a presença nossa na festa já é uma evidencia que somos parte da sociedade
     - Vamos usar a tática de invetar a história que Skorm será um nobre de um outro continente, ligado a indústria de transporte, e está analisando a cidade com Healary
-    - Quando perguntada sobre o Cetro por Hamelin, Kellyn diz que o Cetro parecia algo como uma chave, ou um dispositivo para abrir alguma coisa. Entretanto, ela não tem certeza se lembra bem disso.
+    - Quando perguntada sobre o Cetro por Hamelin, Kallyn diz que o Cetro parecia algo como uma chave, ou um dispositivo para abrir alguma coisa. Entretanto, ela não tem certeza se lembra bem disso.
     - O ambiente será um salão aberto, focado em festas. Existem alguns pilares no meio do salão
     - A segurança será forte
     - Tudo concluido, seguimos pra festa!
@@ -162,11 +162,11 @@
     - Hamelin conversa com Thurian para que ele consiga informações das ruas para nós
     - Ele aceita, e damos como primeira missão, que por 4 dias, alguém vigie a casa do Silvertongs
     - Não avistamos o bando de Dunbar, nem Jesiah no Ragged Lady, provavelmente pois estão trabalhando
-    - Odo nos encontra e nos leva até Kellyn para nos prepararmos antes da festa
+    - Odo nos encontra e nos leva até Kallyn para nos prepararmos antes da festa
 
-  - Seguimos até o escritório da Kellyn na parte nobre da cidade
+  - Seguimos até o escritório da Kallyn na parte nobre da cidade
     - Lá, com os equips guardados no Ragged Lady e as roupas prontas, discutimos as possíveis estratégias na festa
-    - Kellyn deixa claro que manter um perfil discreto é extremamente importante para o sucesso da missão
+    - Kallyn deixa claro que manter um perfil discreto é extremamente importante para o sucesso da missão
     - A festa será num grande salão, e a segurança será pesada
     - Precisamos descobrir o máximo de informações possiveis sobre o Cetro. Existe a possibilidade do Cetro estar sendo transferido naquele evento.
     - Criamos a história de que Skorm é um nobre de outro continente ligado com a indústria de logística, e Healary está acompanhando ele na cidade

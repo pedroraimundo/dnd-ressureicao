@@ -26,7 +26,7 @@
     - Sua investigação deve ser cautelosa, pois se realmente membros influentes da ordem estão envolvidos, isso pode ser tornar perigoso rapidamente.
     - Finalmente, ele nos indica que precisamos ser mais influentes para ter os ouvidos dos chefes das casas de Aleron. Ele então nos indica ir até, nos vinhedos, para que ela possa nos ajudar com a influência que possui.
 
-  - Nos encontramos na cidade, nos atualizamos dos acontecimentos recentes e decidimos alugar uma carroça e ir em direção as vinícolas da Kellyn.
+  - Nos encontramos na cidade, nos atualizamos dos acontecimentos recentes e decidimos alugar uma carroça e ir em direção as vinícolas da Kallyn.
     - Encontramos um grupo descansando em uma fogueira no caminho.
     - Um dos integrantes se apresenta com Dunbar. Eles buscam trabalho na cidade.
     - Após a conversa, eles nos dizem que vão procurar se instalar no Ragged Lady quando chegarem a cidade no dia seguinte.
@@ -36,7 +36,7 @@
   
 ### NOTES
 
-#### CENA 1 - Vinicola da Kellyn
+#### CENA 1 - Vinicola da Kallyn
 
   - Olhando entre as fendas do portoes, identificamos que existem algumas luzes acessas no complexo da vinicola, mesmo sendo tarde. Nao avistamos ninguem. 
     - Vivur analisa o mecanismo que tranca a porta. Aparentemente, alem da fechadura, existe uma barra externa trancando o caminho.
@@ -56,10 +56,10 @@
 
   - Vamos ate a entrada do complexo e é visível que a vida ja comeca por ali, muitas pessoas já começam a trabalhar
     - Temos muita fome, e sentimos um forte cheiro de pao :)
-    - Conversamos com os guardas na entrada. Pedimos uma audição com a Kellyn e café da manhã.
+    - Conversamos com os guardas na entrada. Pedimos uma audição com a Kallyn e café da manhã.
     - Vemos um rapaz passando por trás dos portões, e reconhecemos o Odo. Ele também nos reconhece, e vem até nós, nos portões
     - Anunciamos que temos assuntos urgentes e não tivemos tempo de anunciar nossa vinda.
-    - Odo nos oferece um desjejum, e diz que veremos Kellyn quando ela estiver acordada e disponível
+    - Odo nos oferece um desjejum, e diz que veremos Kallyn quando ela estiver acordada e disponível
     - Vamos em direção ao refeitório/cozinha
 
 
@@ -72,23 +72,23 @@
     - Norma nos serve com o café da manhã e nos deseja um bom dia
     - Notamos que todos tomam um certo tipo de "chá" bem típico
       - Perguntamos a Norma sobre a erva
-      - Ela diz que o pai de Kellyn trouxe essa erva para a Vinícola por ter apreciado as propriedades dela
+      - Ela diz que o pai de Kallyn trouxe essa erva para a Vinícola por ter apreciado as propriedades dela
       - Jacklyln, a assistente, diz que o nome da erva é Ilex Paraguariensis
     - Enquanto tomamos o café e esperamos, notamos muitas pessoas indo e vindo dos campos e andando nos arredores, geralmente jovens em grupos
 
 
-#### CENA 3 - Escritório de Kellyn
+#### CENA 3 - Escritório de Kallyn
 
-  - Odo nos leva até a antesala do escritório da Kellyn, onde aguardamos sermos chamados
-    - Após aguardar uns 15 minutos, Odo nos chama, e nos deixa com a Kellyn no escritório.
-    - Kellyn está interessada na nossa visita. Nos deseja bom dia e começamos a conversa
+  - Odo nos leva até a antesala do escritório da Kallyn, onde aguardamos sermos chamados
+    - Após aguardar uns 15 minutos, Odo nos chama, e nos deixa com a Kallyn no escritório.
+    - Kallyn está interessada na nossa visita. Nos deseja bom dia e começamos a conversa
       - Ela pergunta do rapaz perdido
         - Dizemos a ela o que aconteceu nas minas com alguns detalhes
         - Ela pede detalhe das ruinas, e então descrevemos
         - Ela é familiar com o nome de Hoh'Tur
         - Descrevemos os detalhes sobre a luta com o druida e Hoh'Tur e sobre quem encontramos (Marian e Tristan)
         - Descrevemos também os experimentos que ocorreram ali.
-        - Kellyn parece estar extremamanete curiosa e confusa sobre o assunto - tem mais perguntas do que respostas
+        - Kallyn parece estar extremamanete curiosa e confusa sobre o assunto - tem mais perguntas do que respostas
         - Dizemos a ela que entregamos as anotações a Seren também
         - Ela faz mais perguntas. Dizemos que precisamos da ajuda dela.
         - Ela menciona uma civilização antiga que vivia ali antes, e que muitos buscam mais informações sobre ela
@@ -99,21 +99,21 @@
         - Contamos nossa motivação, e as recomendações de Seren e Riven
         - Ela confirma que nos ajudará!
         - Ela menciona um artefato que sumiu da residência, que foi descoberto pelo avô dela.
-          - Kellyn não sabe se o artefato possui alguma utilidade, mas ela quer reave-lo, e trocará a ajuda e influência dela pelo artefato
+          - Kallyn não sabe se o artefato possui alguma utilidade, mas ela quer reave-lo, e trocará a ajuda e influência dela pelo artefato
           - Perguntamos mais sobre o artefato. A motivação dela parece ser ligada ao artefato, e ele pode trazer respostas sobre a civilização perdida
           - O item é um Cetro de metal, com gemas encrustradas. Esse artefato nunca teve efeito algum, e foi apenas um objeto.
-          - Kellyn confirma que tem imagens do objeto e nos mostrará. (Como por exemplo o vô delá segurando o cetro)
+          - Kallyn confirma que tem imagens do objeto e nos mostrará. (Como por exemplo o vô delá segurando o cetro)
       
-      - Kellyn nos dá mais inforamações sobre seus inimigos e aliados
+      - Kallyn nos dá mais inforamações sobre seus inimigos e aliados
         - Um dos inimigos é uma das famílias, que possuem uma vinícola vizinha e adversária
         - Durante uma festa onde as famílias se reuniram, essa certa família fez várias perguntas sobre o Cetro
         - Ele sumiu mais ou menos nesse período, então ela tem suspeitas que eles possam estar envolvidos
         - A familia se chama Silvertongue. Eles são vizinhos. Não existe nenhuma correlação com Silver Tongue (irmão de Healary)
         - A adversidade entre as familias vem dos negócios. Não houveram conflitos, mas a trama envolve fatores politicos e financeiros. Parecem que eles tem algo financeiramente suspeito, pois nunca tiveram problemas deste tipo. 
-          - Kellyn está interessada em saber da fonte de renda deles, e porque eles sempre se mantiveram financeiramente bem, mesmo quando todos os outros não estavam.
+          - Kallyn está interessada em saber da fonte de renda deles, e porque eles sempre se mantiveram financeiramente bem, mesmo quando todos os outros não estavam.
           - Isso conseguirá ser obtido pelo 'livro-finanças' da familia Silvertongue, e precisamos trazer o livro a ela
-        - O avó e o pai da Kellyn Durian chamam-se 
-        - Kellyn não conhece os riscos de entrar na residência
+        - O avó e o pai da Kallyn Durian chamam-se 
+        - Kallyn não conhece os riscos de entrar na residência
         - Os membros importantes da família Silvertongue, que cuidam da família:
           - Barion Silvertongue (pai) -> tem uma boa reputação e não existem escândalos conhecidos
           - Dhrax Silvertongue (filho) -> aventureiro, briguento, um pouco mais instável
@@ -122,9 +122,9 @@
         - Na noite de amanhã, um baile da alta sociedade, hosteado pela Lady Zuzanna (lider da casa das Finanças e da Guilda dos Mercadores)
           - Os Silvertongues estarão possivelmente lá
           - Faremos um plano pra entrar na festa
-          - Kellyn vai nos garantir acesso a festa. Pegaremos vestimentas apropriadas com o alfaiate da Kellyn.
+          - Kallyn vai nos garantir acesso a festa. Pegaremos vestimentas apropriadas com o alfaiate da Kallyn.
       
-      - Kellyn nos dá um pagamento adiantado para que comecemos a quest.
+      - Kallyn nos dá um pagamento adiantado para que comecemos a quest.
         - Ela oficialmente se anuncia nossa nova patrona :)
         - Vamos voltar a cidade usando as carrocas de entrega de vinho
       
@@ -139,19 +139,19 @@
   - Ao amanhecer, os portoes sao abertos
     - Enquanto conversamos com os guardas, Odo nos vê, e nos convida para tomar um café da manhã
     - Tomamos café, encontramos a Norma e a Jacklyn. Conversamos sobre a erva cultivada apenas na Vinicola, que todos tomam para ter mais energia
-      - A erva tem um passado interessante, o pai de Kellyn trouxe por conta das propriedades, e aquela erva é plantada somente ali. Ilex Paraguariensis
-  - Após o café, seguimos até os aposentos on a Kellyn trabalha.
-    - A Kellyn nos fez muitas perguntas sobre o ocorrido nas minas
+      - A erva tem um passado interessante, o pai de Kallyn trouxe por conta das propriedades, e aquela erva é plantada somente ali. Ilex Paraguariensis
+  - Após o café, seguimos até os aposentos on a Kallyn trabalha.
+    - A Kallyn nos fez muitas perguntas sobre o ocorrido nas minas
       - Entregamos todos os detalhes a ela, inclusive sobre as pessoas com quem conversamos sobre o incidente
       - Pedimos a ajuda dela com influência e informaçãoes
       - Ela nos pede em troca que busquemos um artefato da família dela, um Cetro que está na família Durian a gerações e foi recentemente roubado
-      - O Cetro tem muito valor emocional para a Kellyn e também pode estar interligado com a civilização perdida que há muitos tempo viveu em Aleron - assunto que interessa muito a Kellyn também
-    - A Kellyn suspeita que o roubo tenha a ver com a família Silvertongue - família dona de uma vinícola vizinha
+      - O Cetro tem muito valor emocional para a Kallyn e também pode estar interligado com a civilização perdida que há muitos tempo viveu em Aleron - assunto que interessa muito a Kallyn também
+    - A Kallyn suspeita que o roubo tenha a ver com a família Silvertongue - família dona de uma vinícola vizinha
         - As famílias são rivais de longa data no mundo da política e dos negócios
-        - Os Silvertongues também tem finanças extremamente suspeitas - Kellyn nos pede para recuperar o livro-finança dos Silvertongues para que possamos descobrir mais
-      - Kellyn nos da a informação de que no fim do próximo dia, Lady Zuzanna (chefe da casa das Finanças e da Guilda dos Mercadores) dará um baile a alta sociedade, e os Silvertongues estarão lá
-        - Decidimos nos infiltrar no baile, e Kellyn nos ajudará com isso, providenciando os convites e as roupas apropriadas, entregues pelo alfaiate oficial dos Durian.
+        - Os Silvertongues também tem finanças extremamente suspeitas - Kallyn nos pede para recuperar o livro-finança dos Silvertongues para que possamos descobrir mais
+      - Kallyn nos da a informação de que no fim do próximo dia, Lady Zuzanna (chefe da casa das Finanças e da Guilda dos Mercadores) dará um baile a alta sociedade, e os Silvertongues estarão lá
+        - Decidimos nos infiltrar no baile, e Kallyn nos ajudará com isso, providenciando os convites e as roupas apropriadas, entregues pelo alfaiate oficial dos Durian.
 
-    - Finalmente, Kellyn deposita a confiança dela em nós, nos paga uma parte adiantada pelos nossos serviços e oficialmente se torna nossa patrona :)  
+    - Finalmente, Kallyn deposita a confiança dela em nós, nos paga uma parte adiantada pelos nossos serviços e oficialmente se torna nossa patrona :)  
       - Voltamos com uma carroça de entregas imediatamente a cidade.
 

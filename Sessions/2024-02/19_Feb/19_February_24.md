@@ -22,7 +22,7 @@
       - Notoriamente, um baixo e magro, e o outro alto e corpulento. Não foi possível identificar os rostos, raças ou qualquer brasão nas vestimentas.
   - Decidimos que nosso próximo passo é trazer essas informações ao chefe da casa de leis - Aelfrich
     - Ele poderá nos ajudar com conexões, aliados e informações
-  - Também precisamos falar com Seren (sobre os ingredientes e anotações achados na masmorra), e com Kellyn (para poder nos ajudar a conectar com Aelfrich)
+  - Também precisamos falar com Seren (sobre os ingredientes e anotações achados na masmorra), e com Kallyn (para poder nos ajudar a conectar com Aelfrich)
 
   
 ### NOTES
@@ -72,7 +72,7 @@
         - Skorm dá ambas as espadas a Riven - que as pede para auxiliar na investigação
         - Riven diz que precisamos de mais influencia dentro da cidade pra facilitar nossa investigação
           - Ele comenta que tem uma amiga que poderia ajudar nesse aspecto.
-          - Os chefes das casas de Aleron não nos darão importancia se não tivermos influencia. Ele diz que a Kellyn Luriel pode nos ajudar com os próximos passos. Ele confirma que podemos dar o nome dele para que ela nos ajude. Ele confia nela.
+          - Os chefes das casas de Aleron não nos darão importancia se não tivermos influencia. Ele diz que a Kallyn Luriel pode nos ajudar com os próximos passos. Ele confirma que podemos dar o nome dele para que ela nos ajude. Ele confia nela.
           - Ele também nos conta que seu apelido é Silver Tong porque cantava com Healary pela casa e também por ser uma pessoa muito eloquente
           - Agradecemos Riven e ele também nos agradece
 
@@ -114,11 +114,11 @@
   
   - Seren responde para a ordem também. Todos achamos muita estranha a reação de Seren, principalmente a Healary.
 
-  - Decidimos todos sair naquele momento em direção a casa de Kellyn. Alugamos uma carroca. Chegaremos a noite.
+  - Decidimos todos sair naquele momento em direção a casa de Kallyn. Alugamos uma carroca. Chegaremos a noite.
 
 
   
-#### CENA 4 - A Caminho da Vinicola da Kellyn
+#### CENA 4 - A Caminho da Vinicola da Kallyn
 
   - 40 minutos após a saída da cidade, nós avistamos duas carroças paradas uma ao lado da outra
     - Dentre elas, estão um grupo de pessoas ao redor de uma fogueira, conversando
@@ -155,7 +155,7 @@
     - Sua investigação deve ser cautelosa, pois se realmente membros influentes da ordem estão envolvidos, isso pode ser tornar perigoso rapidamente.
     - Finalmente, ele nos indica que precisamos ser mais influentes para ter os ouvidos dos chefes das casas de Aleron. Ele então nos indica ir até , nos vinhedos, para que ela possa nos ajudar com a influência que possui.
 
-  - Nos encontramos na cidade, nos atualizamos dos acontecimentos recentes e decidimos alugar uma carroça e ir em direção as vinícolas da Kellyn.
+  - Nos encontramos na cidade, nos atualizamos dos acontecimentos recentes e decidimos alugar uma carroça e ir em direção as vinícolas da Kallyn.
     - Encontramos um grupo descansando em uma fogueira no caminho.
     - Um dos integrantes se apresenta com Dunbar. Eles buscam trabalho na cidade.
     - Após a conversa, eles nos dizem que vão procurar se instalar no Ragged Lady quando chegarem a cidade no dia seguinte.
