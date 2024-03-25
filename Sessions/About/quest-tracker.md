@@ -26,6 +26,9 @@
     - Recolhemos informações e vamos em busca do objeto
     - Infiltraremos na festa da Lady Zuzzana para obter mais informações sobre o Cetro [*]
 
+- A Ordem Secreta da Serpente
+    - Todos os Silvertongues e Hoh'Tur parecem fazer parte de uma ordem secreta. Eles usam anéis prateados em formato de serpente. Precisamos saber mais! [*]
+
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
 
