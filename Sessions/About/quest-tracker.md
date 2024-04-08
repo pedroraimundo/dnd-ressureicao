@@ -24,10 +24,12 @@
 - O Cetro de Kallyn [QUEST ATUAL]
     - Kallyn trocará a ajuda e influência dela pelo Cetro de sua família que foi roubado semanas atrás
     - Recolhemos informações e vamos em busca do objeto
-    - Infiltraremos na festa da Lady Zuzzana para obter mais informações sobre o Cetro [*]
+    - Infiltraremos na festa da Lady Zuzanna para obter mais informações sobre o Cetro
+    - Devemos continuar investigando os Silvertongues mais a fundo para mais informações [*]
 
 - A Ordem Secreta da Serpente
-    - Todos os Silvertongues e Hoh'Tur parecem fazer parte de uma ordem secreta. Eles usam anéis prateados em formato de serpente. Precisamos saber mais! [*]
+    - Todos os Silvertongues e Hoh'Tur parecem fazer parte de uma ordem secreta. Eles usam anéis prateados em formato de serpente. Precisamos saber mais! 
+    - A serpente de prata é o simbolo da familia Silvertongue, quais outros membros existem nessa ordem? [*]
 
 - O Trauma de Skorm
     - O simbolo do grupo que dizimou a antiga tripulacao de Skorm, os Sea Hawks, agora atuam nas minas com atividades suspeitas. Precisamos descobrir mais.
